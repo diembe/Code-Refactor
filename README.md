@@ -1,4 +1,4 @@
-# homework-1
+# Code Refactor
 
 This page has been refactored to improve SEO & accessibility. Improvements have been focused on:
 
